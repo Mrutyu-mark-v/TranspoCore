@@ -1,0 +1,13 @@
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/App.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/controller/AIRouteSuggestServlet.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/controller/DBTestServlet.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/controller/LoginServlet.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/controller/TripServlet.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/dao/DBConnection.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/dao/RouteDAO.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/dao/TripDAO.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/model/Driver.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/model/Route.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/model/Trip.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/model/Vehicle.java
+/home/codex/Code/4th-sem-Major-Project/TranspoCore/Transpocore/src/main/java/com/tc/util/GeminiClient.java
